@@ -49,9 +49,10 @@ BeatWave Studios is a concept platform. Specific technical setup, account creati
 Explore the project documentation:
 
 - [Home](Home.md)
+- [Contributing](Contributing.md)
 - [Installation](Installation.md)
 - [Usage](Usage.md)
-- [Contributing](Contributing.md)
+
 
 ## Community and Contributions
 
@@ -59,9 +60,13 @@ BeatWave Studios is intended to encourage creative collaboration and constructiv
 
 ## Credits
 
-BeatWave Studios is designed around the idea that music brings creative communities together.
+BeatWave Studios was developed around the vision of connecting musicians, producers, and music enthusiasts through a shared passion for music.
+
+Project documentation, design, and development resources are acknowledged where applicable. Third-party assets, libraries, and resources retain their respective ownership and licensing requirements.
 
 ## License
 
-A license has not yet been specified. Add a license file and update this section before distributing the project.
+BeatWave Studios has not yet been assigned a formal software license. Until a license is established, permission to use, modify, or redistribute the project's code and materials should not be assumed.
+
+A formal license should be added before the project is distributed or made available for reuse.
 
